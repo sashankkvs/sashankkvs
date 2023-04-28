@@ -11,6 +11,16 @@
 
 - ⚡ Fun fact **I can play keyboard**
 
+## Skills and Experience
+* Python, Bootstrap, Selenium, Pandas, Flask, Jinja, HTML, CSS, Javascript, Java, Typescript, React
+
+## Examples of work
+* Created a website with bootstrap https://sashankkvs.github.io/TinDog/
+* Created a personal website https://sashankkvs.github.io/My-website/
+* Created a basic chat application with react
+<img src = "![Screenshot (5)](https://user-images.githubusercontent.com/110120637/235233669-fccab2b4-9a20-437f-bf91-f139f062f8fe.png)
+">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sashank kanchibhotla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sashank kanchibhotla" height="30" width="40" /></a>
