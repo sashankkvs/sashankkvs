@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sashankkvs](https://github.com/sashankkvs)
 
-- 📫 How to reach me **sashakkvs99@gmail.com**
+- 📫 How to reach me **sashankkvs99@gmail.com**
 
 - ⚡ Fun fact **I can play keyboard**
 
