@@ -16,8 +16,8 @@
 
 ## Examples of work
 * Created a website with bootstrap https://sashankkvs.github.io/TinDog/
-* Created a personal website kvssashank.tech
-* Created a basic chat application with react yuruchat.online
+* Created a personal website https://kvssashank.tech
+* Created a basic chat application with react https://yuruchat.online
 <img src = ![Screenshot (5)](https://user-images.githubusercontent.com/110120637/235234009-b9bdf7bb-ab8c-4b43-80d7-1154380be978.png)
 >
 
